@@ -1,6 +1,3 @@
-**This gem is not maintained anymore and became obsolete. Over time Dropbox
-made some significant changes to its API, which breaks this gem's core
-functionality. You shouldn't be using it anymore.**
 
 ------------------------------------------------------
 
